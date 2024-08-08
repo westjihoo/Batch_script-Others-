@@ -1,5 +1,4 @@
-#### 설치   
-
+#### 설치
 ##### vscode   
 https://www.google.com/search?q=vscode   
 https://code.visualstudio.com/Download   
@@ -7,6 +6,8 @@ https://code.visualstudio.com/Download
 ##### python   
 https://www.google.com/search?q=python   
 https://www.python.org/downloads/windows/   
+
+
    
 ---
    
