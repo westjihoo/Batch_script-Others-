@@ -1,7 +1,3 @@
-물론입니다! 아래는 요청하신 내용을 마크다운 문법으로 정리한 것입니다.
-
----
-
 ## 설치
 
 ### VSCode
@@ -19,8 +15,8 @@
 - [위키독스] 초보자를 위한 파이썬 300제  
   [연습 예제](https://wikidocs.net/7014)  
   ```javascript
-  // allow pasting
-  // document.querySelectorAll('details').forEach(details => details.open = true);
+  allow pasting
+  document.querySelectorAll('details').forEach(details => details.open = true);
   ```
 
 - [백준] Python 배우기 (1~50)  
